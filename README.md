@@ -13,7 +13,7 @@
       </ul>
     </td>
     <td width="42%" valign="top">
-      <img width="360" src="https://ghstats.dev/api/card?username=xcy-sean&theme=tokyonight&hide_border=true&show_ring=false" alt="Sean's GitHub stats" />
+      <img width="360" src="https://ghstats.dev/api/card?username=xcy-sean&theme=tokyonight&hide_border=true&show_ring=false&size=compact&hide=prs,issues,week,trend,avg,active_day,followers" alt="Sean's GitHub stats" />
     </td>
   </tr>
 </table>
