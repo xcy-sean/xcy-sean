@@ -10,6 +10,5 @@
 ## GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xcy-sean&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Sean's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcy-sean&layout=compact&theme=github_dark&hide_border=true" alt="Sean's top languages" />
+  <img src="https://ghstats.dev/api/card?username=xcy-sean&theme=tokyonight&hide_border=true" alt="Sean's GitHub stats" />
 </p>
